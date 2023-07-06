@@ -1,4 +1,8 @@
-### Hi there 👋
+ - Estudante de programação
+ - Conhecimento em Java, Python, Git e SQL
+ - Atualmente, estou aprofundando meus conhecimentos em Java e Spring
+
+   
 
 <!--
 **Gabriel-Oliveira25/Gabriel-Oliveira25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
