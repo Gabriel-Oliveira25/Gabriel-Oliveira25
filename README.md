@@ -1,3 +1,4 @@
+ - ADS
  - Estudante de programação
  - Conhecimento em Java, Python, Git e SQL
  - Atualmente, estou aprofundando meus conhecimentos em Java e Spring
